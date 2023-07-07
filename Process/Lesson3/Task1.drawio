@@ -1,0 +1,120 @@
+<mxfile host="app.diagrams.net" modified="2023-06-26T12:22:36.046Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="gUSDeWmkbh_d6lIakCi4" version="21.5.0" type="device">
+  <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
+    <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YDyPZfftV9ar-u4IHykI-45" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="285.5" width="210" height="303" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="373" y="285.5" width="210" height="303" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-42" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="287" width="210" height="303" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;0&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="42" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;1&lt;/font&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="20" y="172" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-6" value="Составление технического задания.&lt;span id=&quot;docs-internal-guid-1ce19b6f-7fff-adcd-dc5f-92247fde6c45&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-1ce19b6f-7fff-adcd-dc5f-92247fde6c45&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-1ce19b6f-7fff-adcd-dc5f-92247fde6c45&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-1ce19b6f-7fff-adcd-dc5f-92247fde6c45&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-1ce19b6f-7fff-adcd-dc5f-92247fde6c45&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="172" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-7" value="Разработка архитектуры и дизайна системы&lt;span id=&quot;docs-internal-guid-1ce19b6f-7fff-adcd-dc5f-92247fde6c45&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-1ce19b6f-7fff-adcd-dc5f-92247fde6c45&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-1ce19b6f-7fff-adcd-dc5f-92247fde6c45&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-1ce19b6f-7fff-adcd-dc5f-92247fde6c45&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-1ce19b6f-7fff-adcd-dc5f-92247fde6c45&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="172" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-8" value="Определение структуры и интерфейсов компонент&lt;span id=&quot;docs-internal-guid-1ce19b6f-7fff-adcd-dc5f-92247fde6c45&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-1ce19b6f-7fff-adcd-dc5f-92247fde6c45&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-1ce19b6f-7fff-adcd-dc5f-92247fde6c45&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-1ce19b6f-7fff-adcd-dc5f-92247fde6c45&quot;&gt;&lt;/span&gt;&lt;span id=&quot;docs-internal-guid-1ce19b6f-7fff-adcd-dc5f-92247fde6c45&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="172" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-10" value="Процесс технического проектирования при разработке программного обеспечения&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="42" width="640" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-13" value="Анализ проекта и требований заказчика" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="302" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-14" value="Определение целей и задач" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="342" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-15" value="Описание проекта" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="382" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-16" value="Описание технических решений" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="422" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-17" value="Формулирование технических требований" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="462" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-19" value="Описание плана и мероприятий на разработку" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="502" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-20" value="Контроль качества" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="542" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-21" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;2&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="-75.46" y="402.15999999999997" width="271.25" height="78.44" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-22" value="Сбор и анализ информации о требованиях" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="302" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-23" value="Разработка структуры" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="342" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-24" value="Создание моделей данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="382" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-25" value="Разработка интерфейса" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="422" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-26" value="Тестирование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="462" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-27" value="Документирование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="502" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-29" value="Определение функциональных требований" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="393" y="302" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-30" value="Определение технической архитектуры" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="393" y="342" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-31" value="Разработка интерфейса взаимодействия" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="393" y="382" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-32" value="Разработка схемы БД" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="393" y="422" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-33" value="Документирование" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="393" y="462" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YDyPZfftV9ar-u4IHykI-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="478" y="612" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-34" value="Разработка архитектуры системы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="393" y="502" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-35" value="Сбор и анализ требований к системе." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="622" width="680" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-36" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;3&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="-109.18" y="751.19" width="338.7" height="78.44" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-38" value="Выбор архитектурного стилия.&lt;br&gt;&lt;span id=&quot;docs-internal-guid-8a38d6b3-7fff-af8e-d947-03c2d5639c11&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="692" width="680" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-39" value="&lt;span id=&quot;docs-internal-guid-ddb19a6d-7fff-d3a7-669f-7886de46d179&quot;&gt;&lt;/span&gt;Проектирование компонентов системы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="762" width="680" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-40" value="&lt;span id=&quot;docs-internal-guid-ddb19a6d-7fff-d3a7-669f-7886de46d179&quot;&gt;&lt;/span&gt;Тестирование и проверка разработанной архитектуры" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="832" width="680" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YDyPZfftV9ar-u4IHykI-41" value="&lt;span id=&quot;docs-internal-guid-ddb19a6d-7fff-d3a7-669f-7886de46d179&quot;&gt;&lt;/span&gt;Документирование архитектуры" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="902" width="680" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
