@@ -1,0 +1,179 @@
+<mxfile host="app.diagrams.net" modified="2023-07-09T18:50:04.160Z" agent="Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="X02P0nRXlgDMoiaZu8pG" version="21.5.2" type="device">
+  <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
+    <mxGraphModel dx="1050" dy="582" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1c1d494c118603dd-1" value="Релиз программного продукта" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+          <mxGeometry x="5" y="30" width="840" height="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="1c1d494c118603dd-2" value="Product-манаджер" style="swimlane;html=1;startSize=20;" parent="1c1d494c118603dd-1" vertex="1">
+          <mxGeometry y="20" width="250" height="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1c1d494c118603dd-2" source="60571a20871a0731-4" target="uNPilMALlv55LddA5tbx-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="60571a20871a0731-4" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fillColor=#000000;fontFamily=Verdana;fontSize=12;align=center;" parent="1c1d494c118603dd-2" vertex="1">
+          <mxGeometry x="90" y="40" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-30" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;планирование релиза&lt;br style=&quot;border-color: var(--border-color); font-size: 10px;&quot;&gt;определение целей и функций&lt;/font&gt;" style="html=1;align=center;verticalAlign=top;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry x="40" y="120" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1c1d494c118603dd-2" source="uNPilMALlv55LddA5tbx-32" target="uNPilMALlv55LddA5tbx-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-32" value="График и бюджет" style="html=1;whiteSpace=wrap;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry x="40" y="220" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.868;entryY=0.461;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1c1d494c118603dd-2" source="uNPilMALlv55LddA5tbx-49" target="uNPilMALlv55LddA5tbx-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-49" value="Подготовка к запуску" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry x="40" y="310" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-2" source="uNPilMALlv55LddA5tbx-52" target="uNPilMALlv55LddA5tbx-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="125" y="440" />
+              <mxPoint x="125" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-2" source="uNPilMALlv55LddA5tbx-52" target="uNPilMALlv55LddA5tbx-55">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="38" y="453" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1c1d494c118603dd-2" source="uNPilMALlv55LddA5tbx-52" target="uNPilMALlv55LddA5tbx-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="212" y="450" />
+              <mxPoint x="212" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-52" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=-90;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry x="115.78" y="331.73" width="5" height="196.55" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.838;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1c1d494c118603dd-2" source="uNPilMALlv55LddA5tbx-55" target="uNPilMALlv55LddA5tbx-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-55" value="Подготовка инфраструктуры" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry y="466.25" width="75" height="53.75" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.405;entryY=0.534;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1c1d494c118603dd-2" source="uNPilMALlv55LddA5tbx-56" target="uNPilMALlv55LddA5tbx-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-56" value="Планирование ресурсов" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry x="87.5" y="466.25" width="75" height="53.75" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.705;entryY=0.977;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1c1d494c118603dd-2" source="uNPilMALlv55LddA5tbx-57" target="uNPilMALlv55LddA5tbx-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-57" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Подготовка&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;персонала&lt;/font&gt;" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry x="175" y="466.25" width="75" height="53.75" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-2" source="uNPilMALlv55LddA5tbx-66" target="uNPilMALlv55LddA5tbx-73">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="580" />
+              <mxPoint x="110" y="580" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-66" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=-90;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry x="115.78" y="466.25" width="5" height="196.55" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-73" value="Запуск" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1c1d494c118603dd-2">
+          <mxGeometry x="40" y="620" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1c1d494c118603dd-3" value="Разработчик" style="swimlane;html=1;startSize=20;" parent="1c1d494c118603dd-1" vertex="1">
+          <mxGeometry x="250" y="20" width="210" height="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-35" value="&amp;nbsp;Разработка и отладка" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1c1d494c118603dd-3">
+          <mxGeometry x="35" y="120" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1c1d494c118603dd-3" source="uNPilMALlv55LddA5tbx-44" target="uNPilMALlv55LddA5tbx-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-44" value="Создание установочного пакета" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1c1d494c118603dd-3">
+          <mxGeometry x="35" y="310" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-47" value="Руководство пользователя" style="html=1;whiteSpace=wrap;" vertex="1" parent="1c1d494c118603dd-3">
+          <mxGeometry x="35" y="410" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="1c1d494c118603dd-4" value="Тестировщик" style="swimlane;html=1;startSize=20;" parent="1c1d494c118603dd-1" vertex="1">
+          <mxGeometry x="460" y="20" width="210" height="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1c1d494c118603dd-4" source="uNPilMALlv55LddA5tbx-37" target="uNPilMALlv55LddA5tbx-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-37" value="Тестирование программы" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontSize=10;" vertex="1" parent="1c1d494c118603dd-4">
+          <mxGeometry x="35" y="120" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-39" value="" style="rhombus;" vertex="1" parent="1c1d494c118603dd-4">
+          <mxGeometry x="75" y="210" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1c1d494c118603dd-1" source="uNPilMALlv55LddA5tbx-30" target="uNPilMALlv55LddA5tbx-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="uNPilMALlv55LddA5tbx-35" target="uNPilMALlv55LddA5tbx-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="uNPilMALlv55LddA5tbx-39" target="uNPilMALlv55LddA5tbx-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-43" value="Найдена ошибка" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uNPilMALlv55LddA5tbx-41">
+          <mxGeometry x="-0.5808" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="uNPilMALlv55LddA5tbx-39" target="uNPilMALlv55LddA5tbx-44">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="445" y="355" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="565" y="355" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-46" value="Ошибок не выявленно" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uNPilMALlv55LddA5tbx-45">
+          <mxGeometry x="-0.1588" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1c1d494c118603dd-1" source="uNPilMALlv55LddA5tbx-44" target="uNPilMALlv55LddA5tbx-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-1" value="Поддержка" style="swimlane;html=1;startSize=20;" vertex="1" parent="1c1d494c118603dd-1">
+          <mxGeometry x="670" y="20" width="170" height="1030" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-78" value="Поддержка программы" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;dashed=0;whiteSpace=wrap;fontSize=10;" vertex="1" parent="uNPilMALlv55LddA5tbx-1">
+          <mxGeometry x="15" y="710" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uNPilMALlv55LddA5tbx-1" source="uNPilMALlv55LddA5tbx-78" target="60571a20871a0731-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="930" as="targetPoint" />
+            <mxPoint x="760" y="810" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="60571a20871a0731-5" value="" style="shape=mxgraph.bpmn.shape;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;perimeter=ellipsePerimeter;outline=end;symbol=terminate;rounded=0;shadow=0;comic=0;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="uNPilMALlv55LddA5tbx-1" vertex="1">
+          <mxGeometry x="65" y="800" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1c1d494c118603dd-1" source="uNPilMALlv55LddA5tbx-73" target="uNPilMALlv55LddA5tbx-78">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uNPilMALlv55LddA5tbx-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1c1d494c118603dd-1" source="uNPilMALlv55LddA5tbx-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="245" y="513" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="355" y="513" />
+              <mxPoint x="250" y="513" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
